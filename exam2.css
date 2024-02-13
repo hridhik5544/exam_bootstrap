@@ -1,0 +1,20 @@
+.backgnd{
+    background-image: url(./media/bg3.webp);
+    
+}
+@media screen(min-width:900px) {
+    .iconz{
+        width:50%
+    }
+    
+}
+.phw{
+    border: 1px solid  wheat;
+    padding: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.phe{
+    border: 1px solid wheat ;
+    padding: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
